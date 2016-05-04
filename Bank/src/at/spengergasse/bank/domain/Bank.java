@@ -1,7 +1,8 @@
 package at.spengergasse.bank.domain;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 
 public class Bank {
-	private HashMap accounts;
+	private ArrayList 	accounts;
+	private String		bankname;
 }
